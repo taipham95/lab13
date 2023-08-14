@@ -1,0 +1,39 @@
+
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    
+}
+
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    
+}
+
+.footer-info {
+    display: flex;
+    align-items: baseline;
+    position: relative;
+    bottom: -250px;
+    left: 10%;
+}
+
+.footer-h5 {
+    font-weight: 200;
+}
+
+.back-to-top {
+    position: relative;
+    right: -100%;
+}
+
+.privacy {
+    margin: 6px;
+}
